@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Fred!;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Frederico;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
 </p>
 
 If you would like to know more about me, may I suggest visiting the [About](https://www.dzenis.tech/about) section of my personal website.
@@ -16,8 +16,8 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <div align="center">
 
-💌 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
+💌 Contact ➖ contact.fredericopessoa13@gmail.com (for a general-purpose contact) <br>
+📩 Development ➖ developer.
 
 <p align="center">
 
