@@ -1,70 +1,47 @@
-<div align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
-</div>
+# Olá, sou o Frederico!
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Frederico;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
-</p>
-
-If you would like to know more about me, may I suggest visiting the [About]() section of my personal website.
-
-<img src=""><br><br>
-
-
-<br><br><h2 align="center">Contact:</h2><br>
-
-<div align="center">
-
-💌 Contact ➖ contact.fredericopessoa13@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;" target="_blank" href="" >
-			<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
-        <a style="margin-left: 10px;"  target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-				
-			
-			
-</p>
-
-</div><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br><h2 align="center">Skills:</h2><br>
-
-<p>
-<div align="center">
-  
-</div>
-</p><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-![Views]()
-
-
-[![Top Langs]()]()
-  
-
-
-![My GitHub stats]()
-
-</div><br>
+#### Sou um estudante de tecnologia e iniciante no mundo da programação. 🚀  
+#### Atualmente, não trabalho na área, mas estou aprendendo os fundamentos do desenvolvimento de software multiplataforma (DSM) na FATEC de Franca e explorando as possibilidades dessa área incrível.  
+#### Meu objetivo é ampliar constantemente meu aprendizado, resolver problemas reais e contribuir para projetos! Além disso, desejo trabalhar com inteligência artificial (IA) ou análise de dados no futuro.
 
 ---
 
+## 🚀 Skills
+
+#### Aqui estão algumas ferramentas e linguagens que já estou explorando:
+
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎯 Meus objetivos atuais
+
+- **Aprofundar conhecimentos em análise de dados**
+- **Melhorar habilidades em Python**
+- **Criar projetos simples e práticos**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fredericobarbosa&show_icons=true&theme=radical&hide_title=true&hide=stars" alt="Estatísticas do GitHub">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredericobarbosa&layout=compact&theme=radical&hide_title=true" alt="Linguagens Mais Usadas">
+</div>
+
+---
+
+## 🌐 Contatos
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fredericopessoa13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-pessoa-barbosa-a2720618b/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fredericobarbosa)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</p>
